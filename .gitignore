@@ -1,0 +1,16 @@
+# Ignore node modules
+  node_modules/
+
+# macOS system files
+  .DS_Store
+
+# Log files
+  *.log
+
+# Build outputs
+  build/
+  dist/
+
+# Optionally ignore other caches or temporary files
+  .cache/
+  .env
